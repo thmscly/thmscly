@@ -1,5 +1,5 @@
 - 👋 Hi, I’m T.C.
-- 👀 I’m a Full-Stack-based Software Engineer with a focus on the front end, mainly React/JSX/Javascript.
+- 👀 I’m a Meta-Certified Front-End Software Engineer with a focus on React/JSX/Javascript and Node.js.
 - 🌱 Have a look at my website or my LinkedIn for more info about me and what I do: [tccoxswe.com](https://tccoxswe.com/projects) | [linkedin](https://www.linkedin.com/in/thomas-tc-cox/)
 - 💞️ I’m looking to collaborate on React or Laravel projects!
 - 📫 How to reach me: thmscly@gmail.com
