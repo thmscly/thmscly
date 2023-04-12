@@ -1,6 +1,6 @@
 - 👋 Hi, I’m T.C.
 - 👀 I’m a Meta-Certified Front-End Software Engineer with a focus on React/JSX/Javascript and Node.js.
-- 🌱 Have a look at my website or my LinkedIn for more info about me and what I do: [tccoxswe.com](https://tccox-thmscly.vercel.app/) | [linkedin](https://www.linkedin.com/in/thomas-tc-cox/)
+- 🌱 Have a look at my website or my LinkedIn for more info about me and what I do: [my Web App](https://tccox-thmscly.vercel.app/) | [linkedin](https://www.linkedin.com/in/thomas-tc-cox/)
 - 💞️ I’m looking to collaborate on React or Laravel projects!
 - 📫 How to reach me: thmscly@gmail.com
 - I'm actively seeking Junior Level positions.
